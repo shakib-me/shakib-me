@@ -183,7 +183,7 @@ To write **clean, maintainable, and production-ready code** that solves real-wor
 [![Facebook](https://img.shields.io/badge/📘_Facebook-shakib-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117)](https://www.facebook.com/mdshakibhossain.iam)
 [![GitHub](https://img.shields.io/badge/🐙_GitHub-shakib--me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/shakib-me)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-shakib-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117)](https://shakib-me.github.io/me/)
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Md_Shakib_Hossain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/md-shakib-hossain)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Md_Shakib_Hossain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/shakibme)
 
 </div>
 
