@@ -15,16 +15,16 @@
 
 <div align="center">
   
-[![Open to Work](https://img.shields.io/badge/OPEN%20TO-WORK-ff69b4?style=for-the-badge&logo=rocket&logoColor=white)](https://shakib-me.github.io/me/)
-[![Remote Ready](https://img.shields.io/badge/REMOVE-READY-00b4d8?style=for-the-badge&logo=zoom&logoColor=white)]()
-[![Available](https://img.shields.io/badge/AVAILABLE-NOW-00ff88?style=for-the-badge&logo=calendar&logoColor=white)]()
+[![Open to Work](https://img.shields.io/badge/OPEN%20TO-WORK-ff69b4?style=flat-square&logo=rocket&logoColor=white)](https://shakib-me.github.io/me/)
+[![Remote Ready](https://img.shields.io/badge/REMOTE-READY-00b4d8?style=flat-square&logo=zoom&logoColor=white)]()
+[![Available](https://img.shields.io/badge/AVAILABLE-NOW-00ff88?style=flat-square&logo=calendar&logoColor=white)]()
 
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shakib-me&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/shakib-me?style=for-the-badge&logo=github&color=58A6FF"/>
-  <img src="https://img.shields.io/github/stars/shakib-me?style=for-the-badge&logo=github&color=58A6FF"/>
+  <img src="https://komarev.com/ghpvc/?username=shakib-me&color=58A6FF&style=flat-square&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/shakib-me?style=flat-square&logo=github&color=58A6FF"/>
+  <img src="https://img.shields.io/github/stars/shakib-me?style=flat-square&logo=github&color=58A6FF"/>
 </div>
 
 ---
@@ -32,14 +32,12 @@
 ## 🌍 **Open to Opportunities In**
 
 <div align="center">
-
-| Country | Country | Country | Country |
-|---------|---------|---------|---------|
-| 🇧🇩 Bangladesh | 🇺🇸 United States | 🇨🇦 Canada | 🇬🇧 United Kingdom |
-| 🇩🇪 Germany | 🇳🇱 Netherlands | 🇸🇪 Sweden | 🇨🇭 Switzerland |
-| 🇦🇪 Dubai (UAE) | 🇸🇦 Saudi Arabia | 🇶🇦 Qatar | 🇸🇬 Singapore |
-| 🇯🇵 Japan | 🇰🇷 South Korea | 🇦🇺 Australia | 🌍 Remote Worldwide |
-
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px 24px; margin: 20px 0;">
+    <span>🇧🇩 Bangladesh</span> <span>🇺🇸 United States</span> <span>🇨🇦 Canada</span> <span>🇬🇧 United Kingdom</span>
+    <span>🇩🇪 Germany</span> <span>🇳🇱 Netherlands</span> <span>🇸🇪 Sweden</span> <span>🇨🇭 Switzerland</span>
+    <span>🇦🇪 Dubai (UAE)</span> <span>🇸🇦 Saudi Arabia</span> <span>🇶🇦 Qatar</span> <span>🇸🇬 Singapore</span>
+    <span>🇯🇵 Japan</span> <span>🇰🇷 South Korea</span> <span>🇦🇺 Australia</span> <span>🌍 Remote Worldwide</span>
+  </div>
 </div>
 
 ---
@@ -51,10 +49,6 @@
 > *"Building secure, scalable, and elegant web solutions with clean, maintainable code"*
 
 </div>
-
-<table align="center">
-<tr>
-<td width="60%">
 
 ### 👨‍💻 Who Am I?
 
@@ -71,16 +65,9 @@ To write **clean, maintainable, and production-ready code** that solves real-wor
 - 🌟 Open-source contributor
 - 🎯 Goal: Become a Top 1% Developer
 
-</td>
-<td width="40%">
-
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding"/>
 </div>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -89,27 +76,27 @@ To write **clean, maintainable, and production-ready code** that solves real-wor
 <div align="center">
 
 ### 🔹 Backend Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=30&labelColor=0d1117)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&logoWidth=30&labelColor=0d1117)
-![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white&logoWidth=30&labelColor=0d1117)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&logoWidth=30&labelColor=0d1117)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=30&labelColor=0d1117)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### 🔹 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&logoWidth=30&labelColor=0d1117)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&logoWidth=30&labelColor=0d1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=30&labelColor=0d1117)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=30&labelColor=0d1117)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=30&labelColor=0d1117)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&logoWidth=30&labelColor=0d1117)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### 🔹 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&logoWidth=30&labelColor=0d1117)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoWidth=30&labelColor=0d1117)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=30&labelColor=0d1117)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&logoWidth=30&labelColor=0d1117)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&logoWidth=30&labelColor=0d1117)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&logoWidth=30&labelColor=0d1117)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
 
@@ -118,7 +105,7 @@ To write **clean, maintainable, and production-ready code** that solves real-wor
 ## 📊 **Expertise Level**
 
 <div align="center">
-  
+
 | Technology | Proficiency |
 |------------|-------------|
 | 🐍 **Python & Django** | ▰▰▰▰▰▰▰▰▰▰ 95% |
@@ -134,8 +121,8 @@ To write **clean, maintainable, and production-ready code** that solves real-wor
 
 ## 🏆 **Featured Projects**
 
-<div align="center">
-  
+<div align="center" style="overflow-x: auto;">
+
 | Project | Tech Stack | Features |
 |---------|------------|----------|
 | 🛒 **E-Commerce Platform** | Django, React, PostgreSQL, JWT | Product Management, Cart, Payment Integration, Admin Dashboard |
@@ -146,7 +133,7 @@ To write **clean, maintainable, and production-ready code** that solves real-wor
 
 <div align="center">
   
-[![View Projects](https://img.shields.io/badge/🔗_VIEW_ALL_PROJECTS-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shakib-me)
+[![View Projects](https://img.shields.io/badge/🔗_VIEW_ALL_PROJECTS-0077B5?style=flat-square&logo=github&logoColor=white)](https://github.com/shakib-me)
 
 </div>
 
@@ -154,13 +141,13 @@ To write **clean, maintainable, and production-ready code** that solves real-wor
 
 ## 📈 **GitHub Analytics**
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shakib-me&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=10"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shakib-me&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&border_radius=10"/>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img width="49%" style="min-width: 280px;" src="https://github-readme-stats.vercel.app/api?username=shakib-me&show_icons=true&count_private=true&hide_border=true&border_radius=10"/>
+  <img width="49%" style="min-width: 280px;" src="https://github-readme-streak-stats.herokuapp.com/?user=shakib-me&hide_border=true&border_radius=10"/>
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakib-me&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10"/>
+  <img width="60%" style="min-width: 280px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakib-me&layout=compact&hide_border=true&border_radius=10"/>
 </div>
 
 ---
@@ -169,7 +156,7 @@ To write **clean, maintainable, and production-ready code** that solves real-wor
 
 <div align="center">
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shakib-me&bg_color=0d1117&color=58a6ff&line=1f6feb&point=c9d1d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shakib-me&bg_color=transparent&color=58a6ff&line=1f6feb&point=c9d1d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -179,11 +166,11 @@ To write **clean, maintainable, and production-ready code** that solves real-wor
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/📧_Email-gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:mdshakibhossa@gmail.com)
-[![Facebook](https://img.shields.io/badge/📘_Facebook-shakib-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117)](https://www.facebook.com/mdshakibhossain.iam)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-shakib--me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/shakib-me)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-shakib-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117)](https://shakib-me.github.io/me/)
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Md_Shakib_Hossain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/shakibme)
+[![Email](https://img.shields.io/badge/📧_Email-gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mdshakibhossa@gmail.com)
+[![Facebook](https://img.shields.io/badge/📘_Facebook-shakib-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/mdshakibhossain.iam)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-shakib--me-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shakib-me)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-shakib-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://shakib-me.github.io/me/)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Md_Shakib_Hossain-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shakibme)
 
 </div>
 
@@ -193,12 +180,10 @@ To write **clean, maintainable, and production-ready code** that solves real-wor
 
 <div align="center">
   
-| | |
-|---|---|
-| 🌍 **Location** | Open to opportunities worldwide |
-| 💼 **Availability** | Remote / Freelance / Full-Time |
-| 📧 **Email** | mdshakibhossa@gmail.com |
-| 🌐 **Portfolio** | https://shakib-me.github.io/me/ |
+- **🌍 Location:** Open to opportunities worldwide  
+- **💼 Availability:** Remote / Freelance / Full-Time  
+- **📧 Email:** mdshakibhossa@gmail.com  
+- **🌐 Portfolio:** https://shakib-me.github.io/me/
 
 </div>
 
