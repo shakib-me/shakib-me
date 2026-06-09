@@ -6,10 +6,11 @@
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Python+%26+Django+Expert;React+%26+Next.js+Specialist;3.5%2B+Years+Experience;Open+to+Worldwide+Opportunities)](https://git.io/typing-svg)
+
 </div>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQFKh7_o23XA_g/profile-displaybackgroundimage-shrink_350_1400/B56ZnUUliVJQAY-/0/1760203791875?e=1780531200&v=beta&t=kVk0ESzGQu9MF-Ep71OsbSySm0NHpC1VDkn9ttFbKPE" width="100%" alt="banner"/>
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQFKh7_o23XA_g/profile-displaybackgroundimage-shrink_350_1400/B56ZnUUliVJQAY-/0/1760203791875?e=1782345600&v=beta&t=2YFyijRNz99mGgUWGf9lif3SJj66KzjMPR8OsrhC5oI" width="100%" alt="banner"/>
 </p>
 
 <div align="center">
